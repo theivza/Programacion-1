@@ -1,5 +1,5 @@
 import random
-        
+#Programa que genera un número al azar entre 1 y 100 que se tiene que adivinar
 nmagico=random.randint(1, 100)
 intervalo1=1
 intervalo2=100

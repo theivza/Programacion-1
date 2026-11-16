@@ -1,5 +1,5 @@
 import random
-
+#Comentario Piedra, Papel, Tijeras
 jugada=int(input("Selecciona:\n1-Piedra\n2-Papel\n3-Tijeras\n"))
 
 if jugada==1:
