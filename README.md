@@ -1,6 +1,6 @@
 # Programación 1
 
-Este repositorio contiene los programas y ejercicios desarrollados durante la materia de PRogramación 1.
+Este repositorio contiene los programas y ejercicios desarrollados durante la materia de Programación 1.
 
 Los ejercicios están organizados por tema,s y cada programa se encuentra en su propia carpeta.
 
