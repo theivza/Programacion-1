@@ -21,5 +21,6 @@ while n != nmagico:
     while n < intervalo1 or n > intervalo2:
         print("Ingresa el número magico")
         n=int(input("intervalo [", intervalo1, "-", intervalo2, "]"))
+        #Muestra el intervalo disponible donde se encuentra el número oculto
 if n == nmagico:
     print("Fin")
